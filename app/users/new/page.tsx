@@ -1,9 +1,10 @@
+import ProductCard from '@/app/components/ProductCard'
 import React from 'react'
 
 const Page = () => {
   return (
     <div>
-      NestedPage
+   new
     </div>
   )
 }
